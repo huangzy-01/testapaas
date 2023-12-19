@@ -1,0 +1,16 @@
+{
+  "apiID": "package_76bcf6__c__function_aadfqejwfkobu",
+  "apiName": "g",
+  "label": {
+    "zh_CN": "g",
+    "en_US": "g"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
